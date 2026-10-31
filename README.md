@@ -1,4 +1,4 @@
-<img width="1917" height="983" alt="image" src="https://github.com/user-attachments/assets/16472922-e7d8-46d7-a4b1-8da1a8f79973" /># product_catalog
+# product_catalog
 
 A new Flutter project.
 
